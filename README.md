@@ -19,5 +19,21 @@ IoT related Project
 <br>
 • Set Alarm using Node-Red Web dashboard
 <br>
+<br>
+
+This is the Wokwi Simulation for full project 
+[Link Text](https://wokwi.com/projects/392506497091742721)
+
+Related to hardware for this project.
+| Component   | Description                        |
+| ----------- | ---------------------------------- |
+| **ESP32**   | Main microcontroller               |
+| **LM1117**  | 3.3V regulator from battery        |
+| **OLED**    | Display via I2C                    |
+| **DHT11**   | Temp/Humidity sensor               |
+| **Buzzer**  | Audio alert with transistor driver |
+| **Buttons** | User input for alarm settings      |
+| **LEDs**    | Power/status indication            |
+
 
 
