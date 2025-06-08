@@ -35,5 +35,9 @@ Related to hardware for this project.
 | **Buttons** | User input for alarm settings      |
 | **LEDs**    | Power/status indication            |
 
+This is PCB Schematic 
+[Smart MediBox Schematic](schematic.png)
+
+
 
 
