@@ -36,7 +36,7 @@ Related to hardware for this project.
 | **LEDs**    | Power/status indication            |
 
 This is PCB Schematic 
-[Smart MediBox Schematic](schematic.png)
+[Smart MediBox Schematic](Schematic_Smart-Medibox_2025-06-08.png)
 
 
 
