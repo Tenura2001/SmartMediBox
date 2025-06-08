@@ -21,8 +21,8 @@ IoT related Project
 <br>
 <br>
 
-This is the Wokwi Simulation for full project 
-[Link Text](https://wokwi.com/projects/392506497091742721)
+This is the Wokwi Simulation for full project <br>
+[Wokwi-Medibox](https://wokwi.com/projects/392506497091742721)
 
 Related to hardware for this project.
 | Component   | Description                        |
